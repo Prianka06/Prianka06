@@ -4,13 +4,14 @@
 
 ## 🔨 Pre-Final year in B.Tech
 - Manakula Vinayagar Institute of Technology
+
 ## 🏅 Certifications and Achievements
 - AWS Academy Machine Learning Foundations
 - Basics of MongoDB
 - SkillRack Certificates
 - SQL Intermediate
 
-## 🔥 GitHub Link
+## 🔥 GitHub
 
 [View my GitHub Profile](https://github.com/Prianka06)
 
@@ -26,7 +27,6 @@
 - Efficient Medical Image Segmentation for Brain Tumor Detection using Vision Transformer
 - Wedding Planner Website for Inter-College Competition
 
- 
 ## 📚 Currently Learning
 - Data Structures
 - Java (Advanced)
