@@ -21,7 +21,7 @@
 - 5+ CodeChef Problems
 
 ## 📄 View My Resume
-[Resume PDF](https://www.canva.com/design/DAGuF_dQmTc/LMHlQUrxOtOSpgP8UvTrkA/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
+[Resume PDF](https://github.com/Prianka06/Resume.git)
 
 ## 🌟 Key Projects
 - Efficient Medical Image Segmentation for Brain Tumor Detection using Vision Transformer
